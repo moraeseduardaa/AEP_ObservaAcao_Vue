@@ -1,6 +1,10 @@
-# como rodar
+## como rodar
 
-## npm install
-## npm run dev
+```sh
+npm install
+```
+```sh
+npm run dev
+```
 
 
