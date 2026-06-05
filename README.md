@@ -1,3 +1,3 @@
-#como rodar#
+--como rodar--
 npm install
 npm run dev
